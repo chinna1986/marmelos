@@ -5,16 +5,19 @@ Pode parar de funcionar caso a moderação adicione novos filtros ou palavras
 
 ## Como instalar?
 
-### Chrome (sem Tampermonkey)
-:
+### Chrome (sem precisar outras extensões)
+
 Salve o arquivo "marmelos.crx" e arraste para chrome://extensions.
 
 Se der erro, tente marcar a caixinha "developer mode" em chrome://extensions, 
 ou inicie o Chrome c/ a flag –-enable-easy-off-store-extension-install.
 
-### Qualquer browser com Greasemonkey e Chrome com Tampermonkey:
+### Qualquer browser (com Greasemonkey / Tampermonkey):
 
 Basta criar um novo script com os conteúdos do arquivo unpacked/marmelos.js.
+
+Nota: A partir da versão 1.4.0 não foi testado este método. Reporte erros em 
+Issues ou no tópico do /comp/.
 
 ## É seguro?
 Sim. Mas não confie em mim. O código fonte está aí em cima, leia-o.
