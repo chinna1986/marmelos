@@ -1,4 +1,4 @@
-## Marmelos 1.4.1 - Burla filtros e blacklist do 55ch
+## Marmelos 1.4.2 - Burla filtros e blacklist do 55ch
 
 Pode parar de funcionar caso a moderação adicione novos filtros ou palavras 
 à blacklist. Mantenha atualizado baixando daqui as novas versões.
